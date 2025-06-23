@@ -1,0 +1,28 @@
++-----------------+        +----------------+        +----------------+
+|     Vehicle     |<>----- |     Driver     |        |     Route      |
++-----------------+        +----------------+        +----------------+
+| - vehicleNo     |        | - driverId     |        | - routeId      |
+| - vehicleName   |        | - name         |        | - source       |
+| - seatingCap    |        | - address      |        | - destination  |
+| - vehicleType   |        | - contactNo    |        | - distance     |
+| - farePerKm     |        | - licenseNo    |        | - duration     |
++-----------------+        +----------------+        +----------------+
+
+         |
+         | 1
+         |------------------------|
+         |                        | * 
+         v                        v 
++----------------+        +----------------+
+|   Booking      |        |   Customer     |
++----------------+        +----------------+
+| - bookingId    |        | - customerId   |
+| - bookingDate  |        | - name         |
+| - journeyDate  |        | - dob          |
+| - source       |        | - gender       |
+| - destination  |        | - address      |
+| - boardingPt   |        | - mobileNo     |
+| - dropPt       |        | - email        |
+| - noOfPax      |        +----------------+
+| - bookingStatus|
++----------------+
