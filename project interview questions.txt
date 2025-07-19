@@ -1,0 +1,40 @@
+1.what is polymorphism ? its types .
+2.final , finally , finalize ... use , what happens when we make class as final , then final method and final variable
+3.finally executes everytime but if we have written some code in finally and we dont want to print statements which are in finally block then what changes we have to do in try catch?
+4.what is hashing in collections
+5. explain arraylist
+6.mandatory spring annotations
+7. which are  stereotype annoations  in spring
+8.diff between .equals and == 
+9.what are the types of requests in controller
+10.dimond problem - if we define 2 default methods in 2 interfaces with same name then how we will override them as both have same name ?
+11. features of stream Api
+12.explain functional interface
+13multiple inheritance is possible in java? and if not then why ? what is the reason ? and how we will acheive it ?
+14.what programming language you used in last year project
+15. string s1 = "hello"
+       string   s2 = "hello"
+ string s3 = new string("hello")
+       string   s4 = new string("hello")
+ 
+what will output of following?
+s1==s2
+s1==s3
+s3.equals(s4)
+s3==s4
+
+collections vr  - arraylist , linkedlist , then what is hashing in hashmap
+
+coding questions if asked - prime number  , reverse number without stringbuilder , fabonacci series , anaghram number , factorial
+
+1) fibonacci series code
+2) fibonacci with recursion
+3) reverse a string without a stringbuilder
+4) prime numbers 
+5) Difference between hashmap and concurrent hashMap
+6) @SpringbootApplication, @Bean 
+7) @Component vs @ComponentScan
+8) ArrayList working
+9) Inner join vs self join
+10) microservices communication
+
